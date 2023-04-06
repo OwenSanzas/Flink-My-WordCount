@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="flink-learn-wordcount">
+    <profile name="Maven 1" modules="Flink-My-WordCount,flink-learn-wordcount">
       <parameters>
         <parameter value="-nobootcp" />
         <parameter value="-target:jvm-1.8" />
